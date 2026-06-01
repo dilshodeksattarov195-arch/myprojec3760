@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessioncalculate",
+        "uuid": 22469760,
+        "checksum": "zrjgx"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
